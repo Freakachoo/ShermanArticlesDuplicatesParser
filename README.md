@@ -7,6 +7,7 @@ To Run it - install node js, and just run in terminal in the folder: node index.
 Put file to 'lib_files' folder, name it as 'source.json'
 
 Format example:
+```
 [
 	{
 		"id": "http://zotero.org/users/local/gganY6WE/items/J4HTFFJB",
@@ -47,4 +48,4 @@ Format example:
 ... next article...
 
 ]
-
+```
